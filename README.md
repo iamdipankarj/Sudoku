@@ -1,2 +1,2 @@
 # Sudoku
-Sudoku game written in java.
+Sudoku solver written in java.
